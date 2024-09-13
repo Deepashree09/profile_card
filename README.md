@@ -4,7 +4,7 @@ A simple personal profile card implemented using HTML, CSS, and JavaScript to sh
 
 ## Table of Contents
 
-- [About the Project](#about-the-project)
+- [About the Project](#about-the-project) 
 - [Screenshots](#screenshots)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
