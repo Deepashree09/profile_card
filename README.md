@@ -50,6 +50,9 @@ You need a modern web browser to run this project.
 2. Responsive layout
 3. Easy customization
 
+## Output
+![image](C:\Users\deepa\OneDrive\Desktop\d\Profile_card-main\profile card.png)
+
 ## Contact
 Email - deepashreegnaik18@gmail.com<br>
 Github - [DEEPASHREE G NAIK](https://github.com/Deepashree09/)
